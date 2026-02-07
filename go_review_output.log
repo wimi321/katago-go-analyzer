@@ -1,0 +1,7 @@
+📦 加载 YOLO 模型...
+✅ YOLO 加载完成
+
+🖼️  检测: /Users/haoc/.openclaw/media/inbound/e0fc7170-7f83-4e89-bb22-cd35159f71d4.jpg
+
+image 1/1 /Users/haoc/.openclaw/media/inbound/e0fc7170-7f83-4e89-bb22-cd35159f71d4.jpg: 768x1024 7 blacks, 16 whites, 52.3ms
+Speed: 4.0ms preprocess, 52.3ms inference, 0.1ms postprocess per image at shape (1, 3, 768, 1024)
