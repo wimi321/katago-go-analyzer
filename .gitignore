@@ -1,0 +1,93 @@
+# Ignore common temporary files and large datasets
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.bak
+*.orig
+*.rej
+*.log
+
+# Editor-specific
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
+
+# KataGo specific
+# Large datasets and training runs
+merged_dataset/
+temp_go/
+temp_stone/
+runs/
+gtp_logs/
+analysis_logs/
+katago_model.bin.gz # KataGo model file, typically large
+yolo26n.pt # YOLO model file, typically large
+
+# Output SGFs or image files
+*.sgf
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.log
+
+# OpenClaw specific
+.adal/
+.agent/
+.agents/
+.augment/
+.claude/
+.clawhub/
+.cline/
+.commandcode/
+.continue/
+.crush/
+.cursor/
+.factory/
+.goose/
+.iflow/
+.junie/
+.kilocode/
+.kiro/
+.kode/
+.mcpjam/
+.mux/
+.neovate/
+.openhands/
+.pi/
+.pochi/
+.qoder/
+.qwen/
+.roo/
+.trae/
+.vibe/
+.windsurf/
+.zencoder/
+llm_review_prompt.txt
+com.openclaw.guardian.plist
+openclaw_guardian.sh
+
+# Other temporary or generated files
+*.out
+*.tmp
+*.temp
+*.swp
+*.swo
