@@ -1,11 +1,58 @@
 # 🎬 短视频脚本 2026-02-11
 
-> 生成时间：2026-02-11 00:40 GMT+8
+> 生成时间：2026-02-11 00:47 GMT+8
 > 脚本数量：5 个
 
 ---
 
-## 脚本 1: 🪙 币圈又疯了！ Crypto Whale®️🐳
+## 脚本 1: 💥 重磅！AI新突破来了 Alamin
+
+**时长**: 15秒 | **风格**: 科技感、快节奏
+
+### 📜 脚本内容
+
+```
+【0-2秒】开场
+💥 重磅！AI新突破来了
+
+【3-8秒】核心内容
+Alamin
+✅ Top AI LLM Models for Every Task → Writing &amp; Research:
+
+【9-12秒】解读/影响
+这意味着AI能力又上了一个台阶！
+
+【13-15秒】结尾
+关注我，每天带你看科技热点！
+```
+
+### 🎨 视觉建议
+
+- 科技感背景（蓝色/紫色渐变）
+- 代码雨特效
+- 机器人/AI芯片动画
+- 数据流动效果
+
+### 🎵 BGM建议
+
+电子音乐、科技感强、节奏快
+
+### 📝 字幕时间轴
+
+| 时间 | 文字 | 大小 | 颜色 |
+|------|------|------|------|
+| 0-2秒 | 💥 重磅！AI新突破来了 | 大 | 黄色 |
+| 3-5秒 | Alamin | 中 | 白色 |
+| 9-12秒 | ✅ Top AI LLM Models  | 小 | 白色 |
+| 13-15秒 | 关注我！ | 大 | 红色 |
+
+### 🔗 原始来源
+
+https://x.com/iam_chonchol/status/2021264653473677482
+
+---
+
+## 脚本 2: 💸 加密货币最新消息 Molly
 
 **时长**: 15秒 | **风格**: 刺激、投机
 
@@ -13,11 +60,11 @@
 
 ```
 【0-2秒】开场
-🪙 币圈又疯了！
+💸 加密货币最新消息
 
 【3-8秒】核心内容
-Crypto Whale®️🐳
-https://t.co/hPnMuPUQee #hoodie #hoodies #crypto #Bitcoin   
+Molly
+Asias richest man made over $80 billion on Bitcoin and crypt
 
 【9-12秒】解读/影响
 你觉得会涨还是跌？
@@ -41,18 +88,65 @@ https://t.co/hPnMuPUQee #hoodie #hoodies #crypto #Bitcoin   
 
 | 时间 | 文字 | 大小 | 颜色 |
 |------|------|------|------|
-| 0-2秒 | 🪙 币圈又疯了！ | 大 | 黄色 |
-| 3-5秒 | Crypto Whale®️🐳 | 中 | 白色 |
-| 9-12秒 | https://t.co/hPnMuPU | 小 | 白色 |
+| 0-2秒 | 💸 加密货币最新消息 | 大 | 黄色 |
+| 3-5秒 | Molly | 中 | 白色 |
+| 9-12秒 | Asias richest man ma | 小 | 白色 |
 | 13-15秒 | 关注我！ | 大 | 红色 |
 
 ### 🔗 原始来源
 
-https://x.com/CryptoWhaleinc/status/2021256532084531399
+https://x.com/molly_radiant/status/2021264804753629237
 
 ---
 
-## 脚本 2: 🚀 这个币要起飞？ GOLD BTC SIGNALS
+## 脚本 3: 💸 加密货币最新消息 𝘿𝙤𝙡𝙡𝙖𝙧 𝙈𝙖𝙣
+
+**时长**: 15秒 | **风格**: 刺激、投机
+
+### 📜 脚本内容
+
+```
+【0-2秒】开场
+💸 加密货币最新消息
+
+【3-8秒】核心内容
+𝘿𝙤𝙡𝙡𝙖𝙧 𝙈𝙖𝙣
+🚨 FREE BTC (SIGNAL) TRADING SIGNALS! 🚨 https://t.co/DASDVlyn
+
+【9-12秒】解读/影响
+你觉得会涨还是跌？
+
+【13-15秒】结尾
+关注我，每天带你看科技热点！
+```
+
+### 🎨 视觉建议
+
+- K线图动画
+- 币种logo
+- 金色/绿色背景
+- 数字跳动效果
+
+### 🎵 BGM建议
+
+电音、刺激、紧张感
+
+### 📝 字幕时间轴
+
+| 时间 | 文字 | 大小 | 颜色 |
+|------|------|------|------|
+| 0-2秒 | 💸 加密货币最新消息 | 大 | 黄色 |
+| 3-5秒 | 𝘿𝙤𝙡𝙡𝙖𝙧 𝙈𝙖𝙣 | 中 | 白色 |
+| 9-12秒 | 🚨 FREE BTC (SIGNAL)  | 小 | 白色 |
+| 13-15秒 | 关注我！ | 大 | 红色 |
+
+### 🔗 原始来源
+
+https://x.com/FXTraders01/status/2021264804682342838
+
+---
+
+## 脚本 4: 🚀 这个币要起飞？ GOLD BTC SIGNALS
 
 **时长**: 15秒 | **风格**: 刺激、投机
 
@@ -64,7 +158,7 @@ https://x.com/CryptoWhaleinc/status/2021256532084531399
 
 【3-8秒】核心内容
 GOLD BTC SIGNALS
-🚨 FREE BTC (SIGNAL) TRADING SIGNALS! https://t.co/ubVdpuP6tN
+🚨 FREE BTC (SIGNAL) TRADING SIGNALS! https://t.co/ubVdpuOyEf
 
 【9-12秒】解读/影响
 你觉得会涨还是跌？
@@ -96,11 +190,11 @@ GOLD BTC SIGNALS
 
 ### 🔗 原始来源
 
-https://x.com/FXTRADER42/status/2021256528725262473
+https://x.com/FXTRADER42/status/2021264799091347739
 
 ---
 
-## 脚本 3: 🚨 AI圈又炸了！ Julian Goldie SEO
+## 脚本 5: 🚨 AI圈又炸了！ Piotr Migdal
 
 **时长**: 15秒 | **风格**: 科技感、快节奏
 
@@ -111,8 +205,8 @@ https://x.com/FXTRADER42/status/2021256528725262473
 🚨 AI圈又炸了！
 
 【3-8秒】核心内容
-Julian Goldie SEO
-Everyone is sleeping on this AI combo 😴 Claude Opus 4.6 is c
+Piotr Migdal
+For decompiling Chromatron, Claude Code with Opus 4.5 gave m
 
 【9-12秒】解读/影响
 这意味着AI能力又上了一个台阶！
@@ -137,110 +231,13 @@ Everyone is sleeping on this AI combo 😴 Claude Opus 4.6 is c
 | 时间 | 文字 | 大小 | 颜色 |
 |------|------|------|------|
 | 0-2秒 | 🚨 AI圈又炸了！ | 大 | 黄色 |
-| 3-5秒 | Julian Goldie S | 中 | 白色 |
-| 6-8秒 | EO | 中 | 白色 |
-| 9-12秒 | Everyone is sleeping | 小 | 白色 |
+| 3-5秒 | Piotr Migdal | 中 | 白色 |
+| 9-12秒 | For decompiling Chro | 小 | 白色 |
 | 13-15秒 | 关注我！ | 大 | 红色 |
 
 ### 🔗 原始来源
 
-https://x.com/JulianGoldieSEO/status/2021256143063089498
-
----
-
-## 脚本 4: 🚨 AI圈又炸了！ A Caveman Poking an LLM
-
-**时长**: 15秒 | **风格**: 科技感、快节奏
-
-### 📜 脚本内容
-
-```
-【0-2秒】开场
-🚨 AI圈又炸了！
-
-【3-8秒】核心内容
-A Caveman Poking an LLM
-Today just showed none of the models I am paying for know ho
-
-【9-12秒】解读/影响
-这意味着AI能力又上了一个台阶！
-
-【13-15秒】结尾
-关注我，每天带你看科技热点！
-```
-
-### 🎨 视觉建议
-
-- 科技感背景（蓝色/紫色渐变）
-- 代码雨特效
-- 机器人/AI芯片动画
-- 数据流动效果
-
-### 🎵 BGM建议
-
-电子音乐、科技感强、节奏快
-
-### 📝 字幕时间轴
-
-| 时间 | 文字 | 大小 | 颜色 |
-|------|------|------|------|
-| 0-2秒 | 🚨 AI圈又炸了！ | 大 | 黄色 |
-| 3-5秒 | A Caveman Pokin | 中 | 白色 |
-| 6-8秒 | g an LLM | 中 | 白色 |
-| 9-12秒 | Today just showed no | 小 | 白色 |
-| 13-15秒 | 关注我！ | 大 | 红色 |
-
-### 🔗 原始来源
-
-https://x.com/AshikaSef/status/2021255243846017077
-
----
-
-## 脚本 5: 🚨 AI圈又炸了！ Oxygen XML Editor
-
-**时长**: 15秒 | **风格**: 科技感、快节奏
-
-### 📜 脚本内容
-
-```
-【0-2秒】开场
-🚨 AI圈又炸了！
-
-【3-8秒】核心内容
-Oxygen XML Editor
-Oxygen AI Positron 8.1 is here and introduces: ⭐ Support for
-
-【9-12秒】解读/影响
-这意味着AI能力又上了一个台阶！
-
-【13-15秒】结尾
-关注我，每天带你看科技热点！
-```
-
-### 🎨 视觉建议
-
-- 科技感背景（蓝色/紫色渐变）
-- 代码雨特效
-- 机器人/AI芯片动画
-- 数据流动效果
-
-### 🎵 BGM建议
-
-电子音乐、科技感强、节奏快
-
-### 📝 字幕时间轴
-
-| 时间 | 文字 | 大小 | 颜色 |
-|------|------|------|------|
-| 0-2秒 | 🚨 AI圈又炸了！ | 大 | 黄色 |
-| 3-5秒 | Oxygen XML Edit | 中 | 白色 |
-| 6-8秒 | or | 中 | 白色 |
-| 9-12秒 | Oxygen AI Positron 8 | 小 | 白色 |
-| 13-15秒 | 关注我！ | 大 | 红色 |
-
-### 🔗 原始来源
-
-https://x.com/oxygenxml/status/2021255037507272754
+https://x.com/pmigdal/status/2021264629234622534
 
 ---
 
